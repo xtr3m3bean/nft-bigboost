@@ -1,0 +1,24 @@
+{
+  "name": "nft-bigboost",
+  "version": "1.0.0",
+  "description": "NFT BigBoost accelerates NFT operations, offering performance enhancements and improved transaction speeds.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtr3m3bean/nft-bigboost"
+  },
+  "author": "xtr3m3bean",
+  "license": "MIT",
+  "dependencies": {
+    "nft-alchemist-tool": "1.0.0",
+    "nft-bigboost": "1.0.0",
+    "supertest": "1.0.0",
+    "sinon": "1.0.0",
+    "node-sass": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "react-dom": "1.0.0"
+  }
+}
